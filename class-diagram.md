@@ -1,11 +1,3 @@
----
-header-includes:
-  - \usepackage{xcolor}
-  - \usepackage{pagecolor}
-  - \pagecolor{black}
-  - \color{white}
----
-
 ## Thông tin sinh viên
 - **Họ và tên:** Huỳnh Bảo Long
 - **MSSV:** 23730184
